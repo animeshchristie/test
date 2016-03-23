@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">passwordmanager</string>
+    <string name="action_settings">Settings</string>
+    <string name="Signup">Not a registered User? create one</string>
+    <string name="register">Register</string>
+    <string name="passcode">Passcode</string>
+    <string name="unlock">Unlock</string>
+    <string name="name">Name</string>
+    <string name="emailId">emailId</string>
+    <string name="masterCode">masterCode</string>
+    <string name="confirmmastercode">confirmMasterCode</string>
+</resources>

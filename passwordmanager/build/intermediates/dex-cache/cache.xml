@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/elitecore/AndroidStudioProjects/passwordmanager/app/libs/json-simple-1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="/home/elitecore/AndroidStudioProjects/passwordmanager/app/build/intermediates/pre-dexed/debug/json-simple-1.1-19f9fff242bbc723c816e8954ec6aaa3c5e1b0f5.jar" />
+    </item>
+
+</items>
